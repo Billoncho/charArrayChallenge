@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655521787 source:c:\users\cacha\documents\codex\c\chararraychallenge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
